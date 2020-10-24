@@ -1,5 +1,18 @@
 # Projeto Login Screen
 
+A ideia inicial do projeto foi bem simples: Criar uma <b>*Tela de Login/Cadastro*</b> com um <b>*Menu interativo*</b> :yellow_heart: 
+</br>
+Ela surgiu em uma das minhas conversas sobre Desenvolvimento Web com um <b>Desginer incrível</b> e meu amigo, <b>Albertino Junior</b> (<a href="https://instagram.com/gcdraw.er?igshid=1e2ncl0gfttlv">@gcdraw.er</a>)!! 
+</br>
+Dessa forma, introduzi o mundo Front-end para esse jovem gafanhoto que nunca antes tinha produzido algo no padrão web :star: :star::star:
+</br>
+<b>Sou suspeita para falar mas o resultado final ficou muito massa!! :slightly_smiling_face:</b>
+
+
+
+
+<h4>OBS: O Layout feito por Albertino para esse projeto também está disponível acima!!</h4>
+
 <h3>Bons Estudos!</h3>
 *
 *
