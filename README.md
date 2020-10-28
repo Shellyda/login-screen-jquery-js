@@ -9,7 +9,7 @@ Dessa forma, introduzi o mundo Front-end para esse jovem gafanhoto que nunca ant
 <b>Sou suspeita para falar mas o resultado final ficou muito massa!! :slightly_smiling_face:</b>
 
 
-<h3><a href="https://repl.it/talk/share/Uma-Tela-de-Login-Menu-interativo/60357">Clique aqui</a> para conseguir visualizar e testar esse projeto!</h3>
+<h3><a href="https://repl.it/talk/share/Uma-Tela-de-Login-Menu-interativo/60357">Clique aqui</a> para conseguir visualizar e testar esse projeto no Repl.it!</h3>
 
 <h4>OBS: O Layout feito por Albertino para esse projeto também está disponível acima!!</h4>
 
