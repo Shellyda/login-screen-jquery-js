@@ -1,6 +1,8 @@
 # Projeto Login Screen
-
+<p align=center>
 <img src="banner.jpg" height=300 />
+</p>
+
 
 The initial idea of ​​the project was very simple: Create a <b>*Login / Register Screen*</b> with one <b>*Interactive menu*</b> made with jQuery, a library of JavaScript functions :yellow_heart: 
 </br>
