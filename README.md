@@ -1,14 +1,32 @@
-# Projeto Login Screen
+# Study Project: Login Screen with jQuery
 <p align=center>
 <img src="banner.jpg" height=300 />
 </p>
 
+<br />
 
-The initial idea of ​​the project was very simple: Create a <b>*Login / Register Screen*</b> with one <b>*Interactive menu*</b> made with jQuery, a library of JavaScript functions :yellow_heart: 
-</br>
-It came up in one of my conversations about Web Development with a <b>Incredible Desginer</b> and my friend, <b>Albertino Junior</b> (<a href="https://instagram.com/gcdraw.er?igshid=1e2ncl0gfttlv">@gcdraw.er</a>)!! 
-</br>
-In this way, I introduced the Frontend world to this young grasshopper who had never produced anything in the web standard before:star: :star::star:
-</br>
+## About
+This project was developed as part of a study on the application of jQuery in a simple login screen. The main goal is to implement the functionality of changing the background color of the page when clicking on the hamburger menu.
 
-##### OBS: The Muckup made by Albertino for this project is also available above at the file named "LOGIN SCREEN.pdf"!!
+## Technologies Used
+
+- HTML5
+- CSS3
+- jQuery
+
+## Implemented Features
+
+1. **Login Screen:**
+   - Basic structure of a login screen with user and password fields.
+
+2. **Hamburger Menu:**
+   - Implementation of a hamburger menu behavior.
+
+3. **Background Color Change:**
+   - Clicking on the hamburger menu icon changes the background color of the page.
+
+## Usage Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shellyda/login-screen-jquery-js.git
