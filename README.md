@@ -40,18 +40,18 @@ This project was developed as part of a study on the application of jQuery in a 
 ## Contribution
 Feel free to contribute improvements or fixes. Just follow these steps:
 
-## Fork the repository.
+1. Fork the repository.
 Create a branch for your contribution:
 ```bash
 git checkout -b feature/your-feature
 ```
 
-### Make necessary changes.
+2. Make necessary changes.
 Commit and push to your branch:
 ```bash
 git commit -m "Add feature X"
 ```
-### Open a pull request.
+3. Open a pull request.
 
 ```bash
 git push origin feature/your-feature
