@@ -4,6 +4,9 @@
 
 <br />
 
+## Introduction 
+Click [here](https://shellyda.github.io/login-screen-jquery-js/) to check the deployed project 
+
 ## About
 This project was developed as part of a study on the application of jQuery in a simple login screen. The main goal is to implement the functionality of changing the background color of the page when clicking on the hamburger menu.
 
