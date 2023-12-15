@@ -1,6 +1,6 @@
 # Study Project: Login Screen with jQuery
 
-<img width="1028" alt="Screenshot 2023-12-15 at 01 02 22" src="https://github.com/Shellyda/login-screen-jquery-js/assets/69990297/fd324812-5489-485f-a19c-1ba81a0ad471">
+<img width="1440" alt="Screenshot 2023-12-15 at 01 55 50" src="https://github.com/Shellyda/login-screen-jquery-js/assets/69990297/ad62cbba-19d8-495c-97ae-b1b1c7e1516e">
 
 <br />
 
