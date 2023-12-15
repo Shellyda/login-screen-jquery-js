@@ -33,6 +33,33 @@ This project was developed as part of a study on the application of jQuery in a 
    ```bash
    git clone https://github.com/Shellyda/login-screen-jquery-js.git
    ```
+2. Open the index.html file in a web browser.
+
+3. Interact with the login screen and hamburger menu to observe the implemented features.
+
+## Contribution
+Feel free to contribute improvements or fixes. Just follow these steps:
+
+## Fork the repository.
+Create a branch for your contribution:
+```bash
+git checkout -b feature/your-feature
+```
+
+### Make necessary changes.
+Commit and push to your branch:
+```bash
+git commit -m "Add feature X"
+```
+### Open a pull request.
+
+```bash
+git push origin feature/your-feature
+```
+
+## License
+This project is licensed under the MIT License.
+
 ---
 <p align=center>
 <img src="banner.jpg" height=300 />
