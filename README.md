@@ -1,7 +1,6 @@
 # Study Project: Login Screen with jQuery
-<p align=center>
-<img src="banner.jpg" height=300 />
-</p>
+
+<img width="1028" alt="Screenshot 2023-12-15 at 01 02 22" src="https://github.com/Shellyda/login-screen-jquery-js/assets/69990297/fd324812-5489-485f-a19c-1ba81a0ad471">
 
 <br />
 
@@ -30,3 +29,8 @@ This project was developed as part of a study on the application of jQuery in a 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shellyda/login-screen-jquery-js.git
+   ```
+---
+<p align=center>
+<img src="banner.jpg" height=300 />
+</p>
